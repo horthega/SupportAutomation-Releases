@@ -1,6 +1,6 @@
 {
-    "version": "2.2.1",
-    "download_url": "https://github.com/horthega/SupportAutomation-Releases/releases/download/v2.2.1/SupportAutomation-Setup-v2.2.1.exe",
+    "version": "2.2.0",
+    "download_url": "https://github.com/horthega/SupportAutomation-Releases/releases/download/v2.2.0/SupportAutomation-Setup-v2.2.0.exe",
     "sha256": "B0D284684262B38A4743B8E9DF8B2F0BC588A44C3EEC2BF7EF1D44670A9A8E5D",
     "notes": "Implementação da atualização automática pelo GitHub, nova função F1 para copiar números do 3CXPhone e correção do F7."
 }
