@@ -1,5 +1,6 @@
 {
-    "version": "2.3.2",
+    "version": "2.3.0",
     "download_url": "https://github.com/horthega/SupportAutomation-Releases/releases/download/v2.3.0/SupportAutomation-Setup-v2.3.0.exe",
-    "sha256": "7AEC534014C4524CADAB91F914A4E51C0EEA5768C8309FF51814140B467E888F",
-    "notes": "melhorias no F1, F2, F3, F4, F6 e F7"
+    "sha256": "32971F6F5EC441D1E4165F005E81BF537601560ABFA5E76B2D01615113D9AFEE",
+    "notes": "• F1 aprimorado: pressione a tecla por 0,2 segundos para copiar o número da ligação e pesquisar o cliente no IXC.\n\n• F2 aprimorado: selecione o CPF/CNPJ e pressione a tecla por 0,2 segundos para pesquisar no IXC, já com contato e protocolo na área de transferência.\n\n• F4 aprimorado: quando o roteador estiver na tela de login, pressione a tecla por 0,2 segundos para preencher as credenciais.\n\n• F7 com cancelamento: pressione F7 novamente para interromper a automação durante o preenchimento da planilha."
+}
