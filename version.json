@@ -1,5 +1,5 @@
 {
-    "version": "2.3.0",
-    "download_url": "https://github.com/horthega/SupportAutomation-Releases/releases/download/v2.3.0/SupportAutomation-Setup-v2.3.0.exe",
-    "sha256": "32971F6F5EC441D1E4165F005E81BF537601560ABFA5E76B2D01615113D9AFEE",
-    "notes": "• Pressionamento longo do F4 agora copia o número da ligação \ne pesquisa o cliente no IXC.\n• Pressionamento longo do F2 realiza a pesquisa no IXC com \ncontato e protocolo na área de transferência.\n• Pressionamento longo do F4 agora preenche automaticamente as \ncredenciais na tela de login do roteador.\n• F7 com cancelamento: pressione F7 novamente para interromper \no preenchimento da planilha.\n• Personalização: agora é possível personalizar às fraseoloias, \ntextos de OS e mensagens temporárias."}
+    "version": "2.3.1",
+    "download_url": "https://github.com/horthega/SupportAutomation-Releases/releases/download/v2.3.1/SupportAutomation-Setup-v2.3.1.exe",
+    "sha256": "1E569977018C388DCF095BFBC1EDD2679A35EBA60BCAA4BC043C55B2A0F6AB8F",
+    "notes": "• Correção de erros"
